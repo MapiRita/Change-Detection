@@ -1,0 +1,8 @@
+@misc{iandolo2023multitemporal,
+      title={Multitemporal analysis in Google Earth Engine for detecting urban changes using optical data and machine learning algorithms}, 
+      author={Mariapia Rita Iandolo and Francesca Razzano and Chiara Zarro and G. S. Yogesh and Silvia Liberata Ullo},
+      year={2023},
+      eprint={2308.11468},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
